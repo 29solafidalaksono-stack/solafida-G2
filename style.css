@@ -1,0 +1,209 @@
+.rumah {
+  background-color: #ffffff;
+  display: grid;
+  justify-items: center;
+  align-items: start;
+  width: 100vw;
+}
+
+.rumah .overlap-group-wrapper {
+  background-color: #ffffff;
+  width: 1532px;
+  height: 971px;
+}
+
+.rumah .overlap-group {
+  position: relative;
+  height: 971px;
+  background-color: #134535;
+}
+
+.rumah .overlap {
+  position: absolute;
+  width: 1487px;
+  height: 649px;
+  top: 322px;
+  left: 45px;
+}
+
+.rumah .element-rumah {
+  position: absolute;
+  width: 1311px;
+  height: 596px;
+  top: 53px;
+  left: 176px;
+  aspect-ratio: 1.78;
+  object-fit: cover;
+}
+
+.rumah .text-wrapper {
+  position: absolute;
+  width: 614px;
+  top: 0;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.rumah .div {
+  position: absolute;
+  width: 504px;
+  top: 181px;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.rumah .rectangle {
+  width: 283px;
+  height: 134px;
+  top: 432px;
+  left: 11px;
+  position: absolute;
+  background-color: #d9d9d9;
+}
+
+.rumah .text-wrapper-2 {
+  position: absolute;
+  width: 274px;
+  top: 459px;
+  left: 57px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.rumah .text-wrapper-3 {
+  position: absolute;
+  width: 146px;
+  top: 462px;
+  left: 307px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 56px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.rumah .text-wrapper-4 {
+  position: absolute;
+  width: 322px;
+  top: 84px;
+  left: 17px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.rumah .text-wrapper-5 {
+  position: absolute;
+  width: 158px;
+  top: 91px;
+  left: 523px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.rumah .text-wrapper-6 {
+  position: absolute;
+  width: 179px;
+  top: 91px;
+  left: 705px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.rumah .text-wrapper-7 {
+  position: absolute;
+  width: 96px;
+  top: 91px;
+  left: 884px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.rumah .text-wrapper-8 {
+  position: absolute;
+  width: 153px;
+  top: 91px;
+  left: 1002px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.rumah .overlap-2 {
+  position: absolute;
+  width: 252px;
+  height: 59px;
+  top: 82px;
+  left: 1238px;
+}
+
+.rumah .text-wrapper-9 {
+  position: absolute;
+  width: 141px;
+  top: 9px;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.rumah .rectangle-2 {
+  width: 125px;
+  height: 57px;
+  top: 2px;
+  left: 127px;
+  position: absolute;
+  background-color: #d9d9d9;
+}
+
+.rumah .text-wrapper-10 {
+  position: absolute;
+  width: 125px;
+  top: 0;
+  left: 127px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
